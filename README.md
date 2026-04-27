@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=Hi,%20I'm%20Joshua&desc=Software%20Engineer%20%7C%20Cloud%20Architect&descAlign=center&descAlignY=80&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=Hi,%20I'm%20Joshua&desc=Software%20Engineer%20%7C%20Cloud%20Architect&descAlign=center&descAlignY=80&fontSize=60&fontColor=ffffff)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-w1zard" alt="it-w1zard" /></a> </p>
 
