@@ -1,10 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00c8ff&height=300&section=header&text=Hi,%20I'm%20Joshua&desc=Software%20Engineer%20%7C%20Cloud%20Architect&fontSize=60&fontColor=ffffff&descAlign=center&descAlignY=70" width="100%"/>
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/deinserver)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deinusername)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dein@email.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=IT-W1zard&label=PROFILE%20VIEWS&style=flat&color=00FF00)
+
+</div>
 
 <div align="center">
 
