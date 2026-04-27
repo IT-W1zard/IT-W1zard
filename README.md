@@ -21,6 +21,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=jspycharm,py,vscode,html,cs,angular,linux,windows,ps,github,gmail,linkedin,instagram,discord,)](https://skillicons.dev)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00c8ff&height=300&section=footer" width="100%"/>
+
 
 <!--
 **IT-W1zard/IT-W1zard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
