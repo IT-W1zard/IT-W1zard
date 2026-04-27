@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=300&section=header&text=Hi,%20I'm%20Joshua&desc=Software%20Engineer%20%7C%20Cloud%20Architect&fontSize=60&fontColor=ffffff&descAlign=center&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00c8ff&height=300&section=header&text=Hi,%20I'm%20Joshua&desc=Software%20Engineer%20%7C%20Cloud%20Architect&fontSize=60&fontColor=ffffff&descAlign=center&descAlignY=70)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/deinserver)
