@@ -12,38 +12,16 @@
 
 - 📫 How to reach me **jmolnar2639@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/joshua-molnar-2bba77405/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/shujinkohope" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.gg/shujinko2639" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+
+<p>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=0d1117"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it-w1zard&show_icons=true&locale=en&layout=compact" alt="it-w1zard" /></p>
 
