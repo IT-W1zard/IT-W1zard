@@ -19,30 +19,7 @@
 
 ### Tech Arsenal
 
-<table>
-  <tr>
-    <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-w1zard&show_icons=true&locale=en&layout=compact" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=it-w1zard&show_icons=true&locale=en" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:6a00ff&height=200&section=footer" width="100%"/>
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!--
