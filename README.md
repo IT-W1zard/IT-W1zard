@@ -12,7 +12,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Linux**  
+🌱 I’m currently learning about **Linux**  
 💬 Ask me about **Anything**
 
 ---
