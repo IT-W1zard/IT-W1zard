@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/deinserver)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deinusername)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dein@email.com)
-![Profile Views](https://komarev.com/ghpvc/?username=IT-W1zard&label=PROFILE%20VIEWS&style=flat&color=00FF00)
+![Profile Views](https://komarev.com/ghpvc/?username=[IT-W1zard](https://github.com/IT-W1zard/IT-W1zard/tree/main)&label=PROFILE%20VIEWS&style=flat&color=00FF00)
 
 - 🌱 I’m currently learning **Linux**
 
