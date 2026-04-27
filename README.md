@@ -21,6 +21,17 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
   </a>
 </p>
+<p align="left">
+  <a href="..." style="display:inline-block;">
+    <img src="..." height="30" width="40"/>
+  </a>
+  <a href="..." style="display:inline-block;">
+    <img src="..." height="30" width="40"/>
+  </a>
+  <a href="..." style="display:inline-block;">
+    <img src="..." height="30" width="40"/>
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it-w1zard&show_icons=true&locale=en&layout=compact" alt="it-w1zard" /></p>
 
