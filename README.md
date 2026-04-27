@@ -19,7 +19,7 @@
 
 ### Tech Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jspycharm,py,vscode,html,cs,angular,linux,windows,ps,github,gmail,linkedin,instagram,discord,)](https://skillicons.dev)
 
 
 <!--
