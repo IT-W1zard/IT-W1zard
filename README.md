@@ -13,12 +13,11 @@
 <div align="center">
 
 🌱 I’m currently learning **Linux**  
-💬 Ask me about **Anything**  
-📫 How to reach me: **jmolnar2639@gmail.com**
+💬 Ask me about **Anything**
 
 ---
 
-### Languages and Tools
+### Tech Arsenal
 
 <table>
   <tr>
