@@ -6,19 +6,40 @@
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dein@email.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=IT-W1zard&label=PROFILE%20VIEWS&style=flat&color=00FF00)
 
-- 🌱 I’m currently learning **Linux**
+<div align="center">
 
-- 💬 Ask me about **Anything**
+🌱 I’m currently learning **Linux**  
+💬 Ask me about **Anything**  
+📫 How to reach me: **jmolnar2639@gmail.com**
 
-- 📫 How to reach me **jmolnar2639@gmail.com**
+---
 
-align="left">Languages and Tools:</h3> <table> <tr> <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td> </tr> </table>
+### Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it-w1zard&show_icons=true&locale=en&layout=compact" alt="it-w1zard" /></p>
+<table>
+  <tr>
+    <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it-w1zard&show_icons=true&locale=en" alt="it-w1zard" /></p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=it-w1zard&show_icons=true&locale=en&layout=compact" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=it-w1zard&show_icons=true&locale=en" />
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:6a00ff&height=200&section=footer" width="100%"/>
+
+</div>
 
 
 <!--
