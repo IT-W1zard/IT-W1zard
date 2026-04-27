@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/joshua-molnar-2bba77405/))
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/deinserver)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deinusername)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dein@email.com)
