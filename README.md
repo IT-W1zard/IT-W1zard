@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=300&section=header&text=Hi,%20I'm%20Joshua&desc=Software%20Engineer%20%7C%20Cloud%20Architect&fontSize=60&fontColor=ffffff&descAlign=center&descAlignY=70)
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge)](https://linkedin.com)
-[![DISCORD](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=for-the-badge)](https://discord.com)
-[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge)](mailto:you@email.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deinprofil)
+[![Discord](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/deinserver)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/deinusername)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dein@email.com)
+![Profile Views](https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=PROFILE%20VIEWS&style=flat&color=00FF00)
 
 - 🌱 I’m currently learning **Linux**
 
