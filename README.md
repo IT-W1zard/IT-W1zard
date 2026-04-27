@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Joshua;Software+Developer;Welcome+to+my+Profile)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Joshua%20Molnar&fontSize=40&fontColor=ffffff)
 <h1 align="center">Hi, I'm Joshua</h1>
 <h3 align="center">Software Engineer | Cloud Architect</h3>
 
