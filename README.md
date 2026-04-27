@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Hi,%20I'm%20Joshua%0ASoftware%20Engineer%20|%20Cloud%20Architect&fontSize=80&fontColor=ffffff)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Joshua%20Molnar&desc=Software%20Developer&descAlign=center&descAlignY=65&fontSize=40&fontColor=ffffff)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-w1zard" alt="it-w1zard" /></a> </p>
 
 - 🌱 I’m currently learning **Linux**
