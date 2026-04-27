@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Hi,%20I'm%20Joshua%20Molnar&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Hi,%20I'm%20Joshua%20Molnar&fontSize=80&fontColor=ffffff)
 <h1 align="center">Hi, I'm Joshua</h1>
 <h3 align="center">Software Engineer | Cloud Architect</h3>
 
