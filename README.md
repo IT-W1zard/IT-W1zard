@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it-w1zard&show_icons=true&locale=en" alt="it-w1zard" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#00c8ff,100:333399&height=120&section=footer" width="100%"/>
 
 
 <!--
