@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-molnar-2bba77405/)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shujinko2639)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shujinkohope)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmolnar2639@gmail.com?subject=Kontaktanfrage)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IT-W1zard&label=PROFILE%20VIEWS&style=flat&color=00FF00)
