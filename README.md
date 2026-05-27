@@ -24,8 +24,8 @@
 
 # 📚 Main Learning Hub (IMPORTANT)
 
-### 🔗 BITLC 
-👉 **[My Full Learning Repository](https://github.com/BitLC-NE-2025-2026/Linux-Essentials)**  
+ ### 🧾 BITLC 
+## > **[My Full Learning Repository](https://github.com/BitLC-NE-2025-2026/Linux-Essentials)** <  
 *(This repo contains all exercises, notes, and projects from BITLC)*
 
 ---
