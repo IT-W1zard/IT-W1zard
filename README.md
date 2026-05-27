@@ -13,7 +13,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning at **BITLC** :contentReference[oaicite:1]{index=1}  
 - 💻 Focus: Software Engineering & System Basics (Linux, Networking, Dev Tools)
@@ -22,10 +22,10 @@
 
 ---
 
-# 📚 Main Learning Hub (IMPORTANT)
+## 📚 Main Learning Hub (IMPORTANT)
 
  ### 🧾 BITLC 
-## > **[My Full Learning Repository](https://github.com/BitLC-NE-2025-2026/Linux-Essentials)** <  
+### > **[My Full Learning Repository](https://github.com/BitLC-NE-2025-2026/Linux-Essentials)** <  
 *(This repo contains all exercises, notes, and projects from BITLC)*
 
 ---
